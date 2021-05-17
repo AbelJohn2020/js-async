@@ -1,0 +1,24 @@
+{
+  "name": "javascript-async",
+  "version": "1.0.0",
+  "description": "Work with async in JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AbelJohn2020/js-async.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Abel Arbildo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbelJohn2020/js-async/issues"
+  },
+  "homepage": "https://github.com/AbelJohn2020/js-async#readme"
+}
